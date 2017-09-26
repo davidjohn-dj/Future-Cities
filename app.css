@@ -1,0 +1,44 @@
+/* CSS Stylesheet by David John - BTP (Bangalore) */
+
+body {
+    margin: 0;
+    font-family: EYInterstate, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+
+.video-link {
+    width: 295px;
+    color: white;
+    font-family: EYInterstate;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.smart-yellow {
+    color: #ffcf23;
+}
+
+.ey-header li.nav-item {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    border-right: 1px solid #b2b7bb;
+}
+
+.ey-header li.nav-item a.nav-link {
+	padding: 0px 1rem;
+    font-size: 12.5px;
+}
+
+.ey-header li.nav-item:last-child {
+    border-right: 0px;
+}
+
+.bg-dark {
+    background-color: #404c58!important;
+}
